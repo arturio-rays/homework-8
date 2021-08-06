@@ -48,7 +48,7 @@
 
 @font-face {
     font-family: lato;
-    src: url('lato-lightitalic-webfont.eot');
+    src: url('src/lato-lightitalic-webfont.eot');
     src: url('lato-lightitalic-webfont.eot?#iefix') format('embedded-opentype'),
          url('lato-lightitalic-webfont.woff2') format('woff2'),
          url('lato-lightitalic-webfont.woff') format('woff'),
@@ -61,14 +61,14 @@
 
 @font-face {
     font-family: 'PlayFair Display';
-    src: url('src/fonts/PlayfairDisplay.ttf') format('truetype');
+    src: url('src/fonts/PlayFair Display/PlayfairDisplay.ttf') format('truetype');
     font-weight: 400;
     font-style: normal;
 }
 
 @font-face {
     font-family: 'PlayFair Display';
-    src: url('src/fonts/PlayfairDisplay-Italic.ttf') format('truetype');
+    src: url('src/fonts/PlayFair Display/PlayfairDisplay-Italic.ttf') format('truetype');
     font-weight: 400;
     font-style: italic;
 }
